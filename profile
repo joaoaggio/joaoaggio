@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @joaoaggio
+- 👀 I’m studying computer science at São Paulo, Brazil
+- 🌱 I’m currently learning html5 and css3
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me ...
