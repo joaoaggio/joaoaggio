@@ -1,6 +1,6 @@
 ## Hallo ich bin Aggio
 - I'm passionate about languages
--  I’m currently learning JAVA
+-  I’m currently learning javascript
 <div align="center">
   <a href="https://github.com/joaoaggio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoaggio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
